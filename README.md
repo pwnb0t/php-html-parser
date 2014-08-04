@@ -1,16 +1,14 @@
 PHP Html Parser
 ==========================
 
-Version 1.6.3
-
-[![Build Status](https://travis-ci.org/paquettg/php-html-parser.png?branch=master)](https://travis-ci.org/paquettg/php-html-parser)
+Version 1.6.4
 
 PHPHtmlParser is a simple, flexible, html parser which allows you to select tags using any css selector, like jQuery. The goal is to assiste in the development of tools which require a quick, easy way to scrap html, whether it's valid or not! This project was original supported by [sunra/php-simple-html-dom-parser](https://github.com/sunra/php-simple-html-dom-parser) but the support seems to have stopped so this project is my adaptation of his previous work.
 
 Install
 -------
 
-This package can be found on [packagist](https://packagist.org/packages/paquettg/php-html-parser) and is best loaded using [composer](http://getcomposer.org/). We support php 5.4, 5.5, and hhvm 2.3.
+This package can be found on [packagist](https://packagist.org/packages/brjpeters/php-html-parser) and is best loaded using [composer](http://getcomposer.org/). We support php 5.3, 5.4, 5.5, and hhvm 2.3.
 
 Usage
 -----
