@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "brjpeters/string-encode": "0.1.0"
+        "brjpeters/string-encode": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
